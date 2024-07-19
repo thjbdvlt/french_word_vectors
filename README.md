@@ -12,7 +12,7 @@ wv = KeyedVectors.load_word2vec_format('model.bin', binary=True)
 
 # most similar words
 for mot in (
-    "écrire", "lire", "iconique", "semblable", "humaine", "nature",
+    "écrire", "lire", "semblable", "humaine", "nature",
 ):
     print(mot.upper())
     pprint.pprint(wv.most_similar(mot))
@@ -43,19 +43,6 @@ LIRE
  ('rédiger', 0.7388473153114319),
  ('poster', 0.7297687530517578),
  ('voir', 0.7152807712554932)]
-
-
-ICONIQUE
-[('indémodable', 0.7322804927825928),
- ('futuriste', 0.7168718576431274),
- ('intemporel', 0.69966721534729),
- ('stylisé', 0.6945900321006775),
- ('vintage', 0.6915351748466492),
- ('montblanc', 0.6906726360321045),
- ('distinctive', 0.6773362159729004),
- ('multicolore', 0.6764605641365051),
- ('hipster', 0.6754564046859741),
- ('emblématique', 0.6742534041404724)]
 
 
 SEMBLABLE
