@@ -125,9 +125,9 @@ textes littéraires et scientifiques
     - _conférence sur l'éthique_ (1929), sur le site the wittgenstein project
     - _le cahier bleu_ et _le cahier brun_ (traductions automatiques avec [deepl](https://www.deepl.com/en/translator))
 
-- des textes littéraires avec license libre édités par FramaBook:
-    - gee, _sortilèges et syndicats_ (2018, License Art Libre)
-    - pouhiou, Smartarted, _Cycle des néonautes_, Livre I (2012, License Art Libre)
+- des textes littéraires avec license libre édités par FramaBook (Licence Art Libre):
+    - gee, _sortilèges et syndicats_ (2018)
+    - pouhiou, _Smartarted_ (2012)
     - stephane crozat, _traces_ (2018)
     - yann kervran, recueil _quit'a_, vol.1-4 (2020), et _les enquetes d'ernaud_, vol.1-4 (2017)
 
