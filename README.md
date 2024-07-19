@@ -1,4 +1,6 @@
-__word vectors__ pour le français, entraînés avec [Gensim](https://radimrehurek.com/gensim/).
+__word vectors__ pour le français (`word2vec`, 100 dimensions, CBOW), entraînés avec [Gensim](https://radimrehurek.com/gensim/).
+
+le corpus utilisé est constitué d'environ 22 millions de phrases et 500 millions de tokens, provenant de différents corpus (normalisés, et plus ou moins modifiés) et de textes littéraires (ou scientifiques) sous licence libres ou dans le domaine public.
 
 exemple
 =======
@@ -86,8 +88,6 @@ NATURE
 
 sources
 =======
-
-le corpus utilisé est constitué d'environ 22 millions de phrases et 500 millions de tokens, provenant de différents corpus (normalisés, et plus ou moins modifiés) et de textes littéraires (ou scientifiques) sous licence libres ou dans le domaine public.
 
 corpus linguistiques
 --------------------
