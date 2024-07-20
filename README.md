@@ -107,12 +107,15 @@ the wittgenstein project
 - [_conférence sur l'éthique_](https://www.wittgensteinproject.org/w/index.php/Une_conf%C3%A9rence_sur_l%E2%80%99Ethique) (1929)
 - [_le cahier bleu_](https://www.wittgensteinproject.org/w/index.php/Blue_Book) et [_le cahier brun_](https://wittgensteinproject.org/w/index.php/Brown_Book) (trad. automatique avec [deepl](https://www.deepl.com/en/translator))
 
+les classiques des sciences sociales
+------------------------------------
+
+- marcel mauss, [_les techniques du corps_](https://archive.wikiwix.com/cache/index2.php?url=http%3A%2F%2Fclassiques.uqac.ca%2Fclassiques%2Fmauss_marcel%2Fsocio_et_anthropo%2F6_Techniques_corps%2FTechniques_corps.html#federation=archive.wikiwix.com&tab=url) (1934)
 
 wikisource
 ----------
 
 - marcel mauss
-    - _les techniques du corps_ (1935)
     - _essais de sociologie_ (1971)
     - _mélange d'histoire des religions_, avec henri hubert (1909)
 - simone weil
@@ -128,13 +131,24 @@ wikisource
 - rachilde
     - _refaire l'amour_ (1928)
     - _monsieur vénus_ (1884)
+    - _la découverte de l'amérique_ ()
 - léon tolstoi
     - _qu'est-ce que l'art_ (1898, trad. 1918)
     - _guerre et paix_ (1864-1869, trad. 1903-1904)
     - _anna karénine_ (1873-1877, trad. 1906-1908)
 - marcel proust
     - _à la recherche du temps perdu_ (1913-1927, éd. 1946)
-- ...
+- émile durkheim
+    - _la division du travail social_ (1893)
+    - _sociologie et éducation_ (1922)
+- michelle le normand
+    - _les couleurs du temps_ (1919)
+    - _autour de la maison_ (1916)
+    - _enthousiasme_ (1947)
+    - _la maison au phlox_ (1941)
+    - _la plus belle chose du monde_ (1937)
+    - _le nom dans le bronze_ (1933)
+    - _la montagne d'hiver_ (1961)
 
 
 the anarchist library
