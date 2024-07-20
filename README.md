@@ -106,7 +106,7 @@ textes littéraires et scientifiques
 
 - ludwig wittgenstein, depuis le site [the wittgenstein project](https://www.wittgensteinproject.org/w/index.php?title=Main_Page):
     - [_conférence sur l'éthique_](https://www.wittgensteinproject.org/w/index.php/Une_conf%C3%A9rence_sur_l%E2%80%99Ethique) (1929)
-    - [_le cahier bleu_](https://www.wittgensteinproject.org/w/index.php/Blue_Book) et [_le cahier brun_]() (traductions automatiques avec [deepl](https://www.deepl.com/en/translator))
+    - [_le cahier bleu_](https://www.wittgensteinproject.org/w/index.php/Blue_Book) et [_le cahier brun_](https://wittgensteinproject.org/w/index.php/Brown_Book) (traductions automatiques avec [deepl](https://www.deepl.com/en/translator))
 
 - divers textes dans le domaine public issus de [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil), dont:
     - marcel mauss
@@ -135,9 +135,9 @@ textes littéraires et scientifiques
     - ...
 
 - un texte issu de the anarchist library:
-    - peter gelderloos, _l'anarchisme fonctionne_ (2010, traduction par mikail marchand -- à l'aide de deepl -- disponible [ici](https://fr.anarchistlibraries.net/library/peter-gelderloos-anarchie-fonctionne))
+    - peter gelderloos, [_l'anarchisme fonctionne_](https://fr.anarchistlibraries.net/library/peter-gelderloos-anarchie-fonctionne) (2010, traduction par mikail marchand à l'aide de deepl)
 
-- des textes littéraires avec license libre édités par [FramaBook](https://archives.framabook.org/category/romans/index.html) (Licence Art Libre):
+- des textes littéraires édités par [FramaBook](https://archives.framabook.org/category/romans/index.html), sous Licence Art Libre:
     - gee, [_sortilèges et syndicats_](https://archives.framabook.org/working-class-heroic-fantasy/index.html) (2018)
     - pouhiou, [_Smartarted_](https://archives.framabook.org/smartarded-le-cycle-des-noenautes-ii/index.html) (2012)
     - stephane crozat, [_traces_](https://archives.framabook.org/traces/index.html) (2018)
