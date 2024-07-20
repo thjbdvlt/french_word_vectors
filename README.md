@@ -86,7 +86,7 @@ NATURE
  ('fragilité', 0.651949942111969)]
 ```
 
-sources
+corpus
 =======
 
 corpus linguistiques
@@ -101,49 +101,56 @@ corpus linguistiques
 
 [^2]: Référence: _D. Goldhahn, T. Eckart & U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages. In: Proceedings of the 8th International Language Resources and Evaluation (LREC'12), 2012_.
 
-textes littéraires et scientifiques
------------------------------------
+the wittgenstein project
+------------------------
 
-- des textes de ludwig wittgenstein, depuis le site [the wittgenstein project](https://www.wittgensteinproject.org/w/index.php?title=Main_Page):
-    - [_conférence sur l'éthique_](https://www.wittgensteinproject.org/w/index.php/Une_conf%C3%A9rence_sur_l%E2%80%99Ethique) (1929)
-    - [_le cahier bleu_](https://www.wittgensteinproject.org/w/index.php/Blue_Book) et [_le cahier brun_](https://wittgensteinproject.org/w/index.php/Brown_Book) (trad. automatique avec [deepl](https://www.deepl.com/en/translator))
+- [_conférence sur l'éthique_](https://www.wittgensteinproject.org/w/index.php/Une_conf%C3%A9rence_sur_l%E2%80%99Ethique) (1929)
+- [_le cahier bleu_](https://www.wittgensteinproject.org/w/index.php/Blue_Book) et [_le cahier brun_](https://wittgensteinproject.org/w/index.php/Brown_Book) (trad. automatique avec [deepl](https://www.deepl.com/en/translator))
 
-- divers textes dans le domaine public issus de [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil), dont:
-    - marcel mauss
-        - _les techniques du corps_ (1935)
-        - _essais de sociologie_ (1971)
-        - _mélange d'histoire des religions_, avec henri hubert (1909)
-    - simone weil
-        - _la condition ouvrière_ (1951, rédaction en 1934-1937)
-        - _sur la science_ (1966, rédaction en 1929-1942)
-    - jack london
-        - _l'appel de la forêt_ (1903, trad. 1908)
-        - _lettre au juge samuel_ (1910)
-        - _construire un feu_ (1910, trad. 1924)
-        - _le cabaret de la dernière chance_ (1913, trad. 1926)
-        - _la peste écarlate_ (1915, trad. 1924)
-        - _le vagabond des étoiles_ (1915, trad. 1925)
-    - rachilde
-        - _refaire l'amour_ (1928)
-        - _monsieur vénus_ (1884)
-    - léon tolstoi
-        - _qu'est-ce que l'art_ (1898, trad. 1918)
-        - _guerre et paix_ (1864-1869, trad. 1903-1904)
-        - _anna karénine_ (1873-1877, trad. 1906-1908)
-    - marcel proust
-        - _à la recherche du temps perdu_ (1913-1927, éd. 1946)
-    - ...
 
-- un texte issu de [the anarchist library](https://www.google.com/search?q=the%20anarchist%20library):
-    - peter gelderloos, [_l'anarchisme fonctionne_](https://fr.anarchistlibraries.net/library/peter-gelderloos-anarchie-fonctionne) (2010, traduction par mikail marchand à l'aide de deepl)
+wikisource
+----------
 
-- des textes littéraires édités par [FramaBook](https://archives.framabook.org/category/romans/index.html), sous Licence Art Libre:
-    - gee, [_sortilèges et syndicats_](https://archives.framabook.org/working-class-heroic-fantasy/index.html) (2018)
-    - pouhiou, [_smartarted_](https://archives.framabook.org/smartarded-le-cycle-des-noenautes-ii/index.html) (2012)
-    - stephane crozat, [_traces_](https://archives.framabook.org/traces/index.html) (2018)
-    - yann kervran, recueil [_quit'a_](https://archives.framabook.org/qita_01/index.html), vol.1-4 (2020), et [_les enquetes d'ernaud_](https://archives.framabook.org/la-nef-des-loups/index.html), t.1-3 (2017)
+- marcel mauss
+    - _les techniques du corps_ (1935)
+    - _essais de sociologie_ (1971)
+    - _mélange d'histoire des religions_, avec henri hubert (1909)
+- simone weil
+    - _la condition ouvrière_ (1951, rédaction en 1934-1937)
+    - _sur la science_ (1966, rédaction en 1929-1942)
+- jack london
+    - _l'appel de la forêt_ (1903, trad. 1908)
+    - _lettre au juge samuel_ (1910)
+    - _construire un feu_ (1910, trad. 1924)
+    - _le cabaret de la dernière chance_ (1913, trad. 1926)
+    - _la peste écarlate_ (1915, trad. 1924)
+    - _le vagabond des étoiles_ (1915, trad. 1925)
+- rachilde
+    - _refaire l'amour_ (1928)
+    - _monsieur vénus_ (1884)
+- léon tolstoi
+    - _qu'est-ce que l'art_ (1898, trad. 1918)
+    - _guerre et paix_ (1864-1869, trad. 1903-1904)
+    - _anna karénine_ (1873-1877, trad. 1906-1908)
+- marcel proust
+    - _à la recherche du temps perdu_ (1913-1927, éd. 1946)
+- ...
 
-articles wikipedia
+
+the anarchist library
+---------------------
+
+- peter gelderloos, [_l'anarchisme fonctionne_](https://fr.anarchistlibraries.net/library/peter-gelderloos-anarchie-fonctionne) (2010, traduction par mikail marchand à l'aide de deepl)
+
+framabook
+---------
+
+- gee, [_sortilèges et syndicats_](https://archives.framabook.org/working-class-heroic-fantasy/index.html) (2018)
+- pouhiou, [_smartarted_](https://archives.framabook.org/smartarded-le-cycle-des-noenautes-ii/index.html) (2012)
+- stephane crozat, [_traces_](https://archives.framabook.org/traces/index.html) (2018)
+- yann kervran, recueil [_quit'a_](https://archives.framabook.org/qita_01/index.html), vol.1-4 (2020), et [_les enquetes d'ernaud_](https://archives.framabook.org/la-nef-des-loups/index.html), t.1-3 (2017)
+
+wikipedia
 ------------------
 
 - article [_donnée_](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
