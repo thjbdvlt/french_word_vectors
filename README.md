@@ -118,29 +118,30 @@ textes littéraires et scientifiques
     - marcel mauss
         - _les techniques du corps_ (1935)
         - _essais de sociologie_ (1971)
-        - _mélange d'histoire des religions_ (1909, avec henri hubert)
+        - _mélange d'histoire des religions_, avec henri hubert (1909)
     - simone weil
-        - _la condition ouvrière_ (1951)
-        - _sur la science_
+        - _la condition ouvrière_ (1951, rédaction en 1934-1937)
+        - _sur la science_ (1966, rédaction en 1929-1942)
     - jack london
-        - _l'appel de la forêt_ (1903 / 1908)
+        - _l'appel de la forêt_ (1903, trad. 1908)
         - _lettre au juge samuel_ (1910)
-        - _construire un feu_ (1910)
-        - _le cabaret de la dernière chance_ (1913 / 1926)
-        - _la peste écarlate_ (1915 / 1924)
-        - _le vagabond des étoiles_ (1915 / 1925)
+        - _construire un feu_ (1910, trad. 1924)
+        - _le cabaret de la dernière chance_ (1913, trad. 1926)
+        - _la peste écarlate_ (1915, trad. 1924)
+        - _le vagabond des étoiles_ (1915, trad. 1925)
     - rachilde
         - _refaire l'amour_ (1928)
-        - _monsieur vénus_
-    - tolstoi
-        - _guerre et paix_
-        - _anna karénine_
+        - _monsieur vénus_ (1884)
+    - léon tolstoi
+        - _qu'est-ce que l'art_ (1898, trad. 1918)
+        - _guerre et paix_ (1864-1869, trad. 1903-1904)
+        - _anna karénine_ (1873-1877, trad. 1906-1908)
     - marcel proust
-        - _à la recherche du temps perdu_
+        - _à la recherche du temps perdu_ (1913-1927, éd. 1946)
     - ...
 
 - un texte issu de the anarchist library:
-    - peter gelderloos, _l'anarchisme fonctionne_
+    - peter gelderloos, _l'anarchisme fonctionne_ (2010, traduction par mikail marchand -- à l'aide de deepl -- disponible [ici](https://fr.anarchistlibraries.net/library/peter-gelderloos-anarchie-fonctionne))
 
 articles wikipedia
 ------------------
