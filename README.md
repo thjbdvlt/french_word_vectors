@@ -158,7 +158,7 @@ articles wikipedia
 usage avec spacy
 ================
 
-pour utiliser ces vecteurs avec [spacy](https://spacy.io/), en tant que component [tok2vec](https://spacy.io/api/tok2vec), il faut d'abord convertir les vecteurs dans un format texte.
+pour utiliser ces vecteurs avec [spacy](https://spacy.io/). il faut d'abord convertir les vecteurs dans un format texte.
 
 ```python
 from gensim.models import KeyedVectors
@@ -168,7 +168,7 @@ wv = KeyedVectors.load_word2vec_format('model.bin', binary=True)
 wv.save_word2vec_format('model.word2vec', binary=False)
 ```
 
-on peut ensuite créer le component `tok2vec` à l'aide de l'outil `spacy` en ligne de commande:
+on peut ensuite créer les vecteurs l'aide de l'outil `spacy` en ligne de commande:
 
 ```bash
 spacy init vectors fr model.word2vec vectors
