@@ -93,7 +93,7 @@ corpus linguistiques
 --------------------
 
 - [WikiDisc](https://www.ortolang.fr/market/corpora/wikidisc), un corpus de discussions Wikipedia[^1].
-- [Corpora Collection Leipzig](https://wortschatz.uni-leipzig.de/en/download/French), un ensemble de corpus de divers langues et régions[^2]. J'ai téléchargé des fichiers (entre 30'000 et 1'000'000 phrases chacun) pour les régions suivantes: Suisse, Luxembourg, Nouvelle Calédonie, Togo, Congo, Polynésie Française, Côte d'Ivoire, Belgique, France, Madagascar, Cameroun.
+- [Corpora Collection Leipzig](https://wortschatz.uni-leipzig.de/en/download/French), un ensemble de corpus de divers langues et régions[^2]. J'ai téléchargé des fichiers (entre 30'000 et 1'000'000 phrases chacun) pour les régions suivantes: Belgique, Cameroun, Congo, Côte d'Ivoire, France, Luxembourg, Madagascar, Nouvelle Calédonie, Polynésie Française, Suisse, Togo.
 - [Corpus Reporterre](https://www.ortolang.fr/market/corpora/corpus-reporterre), un corpus d'articles du média en ligne Reporterre.
 - [CFPR, Corpus Français Parlé de nos Régions](https://cfpr.huma-num.fr/), corpus oral dont j'ai utilisé uniquement les transcriptions.
 
@@ -104,17 +104,11 @@ corpus linguistiques
 textes littéraires et scientifiques
 -----------------------------------
 
-- ludwig wittgenstein:
-    - _conférence sur l'éthique_ (1929), sur le site the wittgenstein project
-    - _le cahier bleu_ et _le cahier brun_ (traductions automatiques avec [deepl](https://www.deepl.com/en/translator))
+- ludwig wittgenstein, depuis le site [the wittgenstein project](https://www.wittgensteinproject.org/w/index.php?title=Main_Page):
+    - [_conférence sur l'éthique_](https://www.wittgensteinproject.org/w/index.php/Une_conf%C3%A9rence_sur_l%E2%80%99Ethique) (1929)
+    - [_le cahier bleu_](https://www.wittgensteinproject.org/w/index.php/Blue_Book) et [_le cahier brun_]() (traductions automatiques avec [deepl](https://www.deepl.com/en/translator))
 
-- des textes littéraires avec license libre édités par FramaBook (Licence Art Libre):
-    - gee, _sortilèges et syndicats_ (2018)
-    - pouhiou, _Smartarted_ (2012)
-    - stephane crozat, _traces_ (2018)
-    - yann kervran, recueil _quit'a_, vol.1-4 (2020), et _les enquetes d'ernaud_, vol.1-4 (2017)
-
-- divers textes dans le domaine public issus de Wikisources, dont:
+- divers textes dans le domaine public issus de [Wikisource](https://fr.wikisource.org/wiki/Wikisource:Accueil), dont:
     - marcel mauss
         - _les techniques du corps_ (1935)
         - _essais de sociologie_ (1971)
@@ -142,6 +136,12 @@ textes littéraires et scientifiques
 
 - un texte issu de the anarchist library:
     - peter gelderloos, _l'anarchisme fonctionne_ (2010, traduction par mikail marchand -- à l'aide de deepl -- disponible [ici](https://fr.anarchistlibraries.net/library/peter-gelderloos-anarchie-fonctionne))
+
+- des textes littéraires avec license libre édités par [FramaBook](https://archives.framabook.org/category/romans/index.html) (Licence Art Libre):
+    - gee, [_sortilèges et syndicats_](https://archives.framabook.org/working-class-heroic-fantasy/index.html) (2018)
+    - pouhiou, [_Smartarted_](https://archives.framabook.org/smartarded-le-cycle-des-noenautes-ii/index.html) (2012)
+    - stephane crozat, [_traces_](https://archives.framabook.org/traces/index.html) (2018)
+    - yann kervran, recueil [_quit'a_](https://archives.framabook.org/qita_01/index.html), vol.1-4 (2020), et [_les enquetes d'ernaud_](https://archives.framabook.org/la-nef-des-loups/index.html), t.1-3 (2017)
 
 articles wikipedia
 ------------------
