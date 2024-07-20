@@ -146,11 +146,11 @@ textes littéraires et scientifiques
 articles wikipedia
 ------------------
 
-- article _donnée_
-- article _logiciel libre_
-- article _copier-coller_
-- article _commun_
-- extraits de l'article _règles du jeu du football_ et de l'article _football_
+- article [_donnée_](https://fr.wikipedia.org/wiki/Donn%C3%A9e)
+- article [_logiciel libre_](https://fr.wikipedia.org/wiki/Logiciel_libre)
+- article [_copier-coller_](https://fr.wikipedia.org/wiki/Copier-coller)
+- article [_commun_](https://fr.wikipedia.org/wiki/Communs)
+- extraits de l'article [_football_](https://fr.wikipedia.org/wiki/Football) et [_lois du jeu_](https://fr.wikipedia.org/wiki/Lois_du_jeu)
 
 usage avec spacy
 ================
