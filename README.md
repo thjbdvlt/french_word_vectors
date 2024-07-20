@@ -134,7 +134,7 @@ textes littéraires et scientifiques
         - _à la recherche du temps perdu_ (1913-1927, éd. 1946)
     - ...
 
-- un texte issu de the anarchist library:
+- un texte issu de [the anarchist library](https://www.google.com/search?q=the%20anarchist%20library):
     - peter gelderloos, [_l'anarchisme fonctionne_](https://fr.anarchistlibraries.net/library/peter-gelderloos-anarchie-fonctionne) (2010, traduction par mikail marchand à l'aide de deepl)
 
 - des textes littéraires édités par [FramaBook](https://archives.framabook.org/category/romans/index.html), sous Licence Art Libre:
