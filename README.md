@@ -92,18 +92,14 @@ sources
 corpus linguistiques
 --------------------
 
-- [WikiDisc](https://www.ortolang.fr/market/corpora/wikidisc)[^1].
-- [Corpora Collection Leipzig](https://wortschatz.uni-leipzig.de/en/download/French)[^2].
-- [Corpus Reporterre](https://www.ortolang.fr/market/corpora/corpus-reporterre)[^3].
-- [CFPR, Corpus Français Parlé de nos Régions](https://cfpr.huma-num.fr/)[^4].
+- [WikiDisc](https://www.ortolang.fr/market/corpora/wikidisc), un corpus de discussions Wikipedia[^1].
+- [Corpora Collection Leipzig](https://wortschatz.uni-leipzig.de/en/download/French), un ensemble de corpus de divers langues et régions[^2]. J'ai téléchargé des fichiers (entre 30'000 et 1'000'000 phrases chacun) pour les régions suivantes: Suisse, Luxembourg, Nouvelle Calédonie, Togo, Congo, Polynésie Française, Côte d'Ivoire, Belgique, France, Madagascar, Cameroun.
+- [Corpus Reporterre](https://www.ortolang.fr/market/corpora/corpus-reporterre), un corpus d'articles du média en ligne Reporterre.
+- [CFPR, Corpus Français Parlé de nos Régions](https://cfpr.huma-num.fr/), corpus oral dont j'ai utilisé uniquement les transcriptions.
 
-[^1]: Un corpus de discussions Wikipedia. Référence: _Lydia-Mai Ho-Dac, Veronika Laippala. Le corpus WikiDisc : ressource pour la caractérisation des discussions en ligne. Wigham, Ciara R.; Ledegen, Gudrun. Corpus de communication médiée par les réseaux : construction, structuration, analyse., l'Harmattan, pp.107-124, 2017, Humanités numériques, 978-2-343-11212-1_. 
+[^1]: Référence: _Lydia-Mai Ho-Dac, Veronika Laippala. Le corpus WikiDisc : ressource pour la caractérisation des discussions en ligne. Wigham, Ciara R.; Ledegen, Gudrun. Corpus de communication médiée par les réseaux : construction, structuration, analyse., l'Harmattan, pp.107-124, 2017, Humanités numériques, 978-2-343-11212-1_. 
 
-[^2]: Un ensemble de corpus de divers langues et régions. Référence: _D. Goldhahn, T. Eckart & U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages. In: Proceedings of the 8th International Language Resources and Evaluation (LREC'12), 2012_. J'ai téléchargé des fichiers (entre 30'000 et 1'000'000 phrases chacun) pour les régions suivantes: Suisse, Luxembourg, Nouvelle Calédonie, Togo, Congo, Polynésie Française, Côte d'Ivoire, Belgique, France, Madagascar, Cameroun.
-
-[^3]: Un corpus d'articles du média en ligne Reporterre.
-
-[^4]: Corpus oral dont j'ai utilisé uniquement les transcriptions.
+[^2]: Référence: _D. Goldhahn, T. Eckart & U. Quasthoff: Building Large Monolingual Dictionaries at the Leipzig Corpora Collection: From 100 to 200 Languages. In: Proceedings of the 8th International Language Resources and Evaluation (LREC'12), 2012_.
 
 textes littéraires et scientifiques
 -----------------------------------
