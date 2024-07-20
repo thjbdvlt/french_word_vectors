@@ -131,7 +131,7 @@ wikisource
 - rachilde
     - _refaire l'amour_ (1928)
     - _monsieur vénus_ (1884)
-    - _la découverte de l'amérique_ ()
+    - _la découverte de l'amérique_ (1919)
 - léon tolstoi
     - _qu'est-ce que l'art_ (1898, trad. 1918)
     - _guerre et paix_ (1864-1869, trad. 1903-1904)
